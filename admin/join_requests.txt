@@ -1,0 +1,40 @@
+Name: THis is and example
+Email: admin@test.local
+Phone No: 9876543
+Message: This
+Age: 12
+Blood Group: O+
+Education Qualification: 12th
+Profession: Engineer
+Skill of Interest: Engineer
+-----------------------------
+Name: j
+Email: jjj@gmail.com
+Phone No: 9898989898
+Message: gsvknfhg
+Age: 13
+Blood Group: A+
+Education Qualification: student
+Profession: student
+Skill of Interest: graphic designing
+-----------------------------
+Name: Akash Lodhi
+Email: akashlodhi928@gmail.com
+Phone No: 07773081906
+Message: Hiii
+Age: 18
+Blood Group: A+
+Education Qualification: B. Tech
+Profession: Student
+Skill of Interest: Social working
+-----------------------------
+Name: Jayesh
+Email: abc@gmail.com
+Phone No: 666666666
+Message: Review 
+Age: 20
+Blood Group: A+
+Education Qualification: BTech 
+Profession: Student 
+Skill of Interest: Helping 
+-----------------------------

@@ -1,0 +1,83 @@
+Name: No need
+Email: world@gmail.com
+Subject: subject@members.com
+Message: Hello
+-----------------------------
+Name: Hello
+Email: subject@members.com
+Subject: subject@members.com
+Message: THis
+-----------------------------
+Name: Hello
+Email: subject@members.com
+Subject: subject@members.com
+Message: THis
+-----------------------------
+Name: No need
+Email: world@gmail.com
+Subject: admin new
+Message: This
+-----------------------------
+Name: Hello
+Email: admin@local.l
+Subject: subject@members.com
+Message: This
+-----------------------------
+Name: THis is and example
+Email: admin@test.local
+Subject: This
+Message: this
+-----------------------------
+Name: THis is and example
+Email: admin@test.local
+Subject: This
+Message: This
+-----------------------------
+Name: THis is and example
+Email: admin@test.local
+Subject: This
+Message: This
+-----------------------------
+Name: Brianna Belton
+Email: pageranktechnology@gmail.com
+Subject: Re: Website Design &amp; Development
+Message: Greeting of the day,
+
+www.thehelpbook.org
+ 
+We offer the following Services at affordable Cost:
+
+Like: - Website Design, Graphic Design &amp; Re-Design. Web Development, Mobile Apps Development or want some additional features with latest technological trends?
+
+Are you thinking to upgrade or build new website/mobile app? Or if you want to get idea, how much it would cost you?
+
+Reply me back with your requirements.
+
+Kindest Regards,
+Brianna Belton
+
+
+
+
+
+If you don’t want me to contact you again about this, reply with “No thank you”
+
+-----------------------------
+Name: Frankie Shattuck
+Email: frankie@leadboost.click
+Subject: New website? Here&#039;s a useful free tool
+Message: Hi,
+
+We noticed that thehelpbook.org is a fresh website.
+
+Thought I’d check in to see you are in need of a tool that helps you track your website&#039;s availability and speed.  
+Sometimes, websites go down for various reasons, blocking potential customers from accessing your site.  
+The tool I’m referring to acts as a virtual assistant that will alert you any time your site is down.
+
+No worries – it&#039;s entirely free.
+
+Best regards,  
+Frankie  Shattuck
+Web Specialist  
+https://leadboost.click/g
+-----------------------------
